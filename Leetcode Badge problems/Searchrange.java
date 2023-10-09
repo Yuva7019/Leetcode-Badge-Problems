@@ -24,6 +24,8 @@ class Solution {
             }
         }
         return new int[]{start,end};
+ //return an array procedure(need to intialize and return value int[] n=new int[]->n={1,2};
+
 
     }
 }
